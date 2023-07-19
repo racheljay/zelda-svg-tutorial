@@ -1,0 +1,9 @@
+.fill {
+    fill: #fff;
+}
+
+.stroke {
+    fill: none;
+    stroke: #999;
+    stroke-width: 10;
+}
